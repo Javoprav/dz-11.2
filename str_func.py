@@ -5,3 +5,5 @@ def capital_up(str):
 def first_letter_up(str):
     '''the function translates the first letter to uppercase'''
     return str.capitalize()
+
+
